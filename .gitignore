@@ -21,3 +21,6 @@ Desktop.ini
 
 # Linux files
 *~
+
+#API KEYS
+secrets.h
